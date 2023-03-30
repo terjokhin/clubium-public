@@ -1,0 +1,48 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build files
+
+*.class
+*.log
+logs
+target
+/.classpath
+/project/project
+/project/target
+/.settings
+/.project
+
+# VSCode
+.metals
+.vscode
+.history
+metals.sbt
+
+# IntelliJ IDEA Files
+
+/.idea*
+/.idea_modules
+*.iml
+
+# SBT
+.bsp
+.bloop
+
+# Sublime files
+
+*.sublime-workspace
+
+# Python files
+
+python/*.session
+python/*.session-journal
+python/*config.ini
+__pycache__
+
+# Other
+
+travis_deploy
+/ponv.db

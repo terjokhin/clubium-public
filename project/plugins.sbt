@@ -1,0 +1,6 @@
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.4.6")
+addSbtPlugin("com.dwijnand" % "sbt-dynver" % "4.1.1")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.6.2")
+addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.9.0")
+addSbtPlugin("com.github.sbt" % "sbt-native-packager" % "1.9.9")
+addSbtPlugin("org.scalameta" % "sbt-munit" % "0.7.29")
